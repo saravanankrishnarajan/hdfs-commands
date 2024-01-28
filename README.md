@@ -2,7 +2,7 @@
 
 Overview of HDFS commands
 
-Using HDFS CLI
+Using HDFS CLI</br>
 Getting Help or Usage
 Listing HDFS Files
 Managing HDFS Directories
